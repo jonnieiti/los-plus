@@ -7,9 +7,11 @@ To initialize your local repository using the LineageOS trees, use a command lik
 
 repo init -u git://github.com/los-modded/android.git -b lineage-18.1
 
+
 Then to sync up:
 
 repo sync -c --force-sync --no-tags --no-clone-bundle -j$(nproc --all) --optimized-fetch --prune
+
 
 Please see the LineageOS Wiki for building instructions, by device.
 Submitting patches
