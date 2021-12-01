@@ -1,5 +1,5 @@
-# los-plus
-Los Plus
+# los-tw3aked
+Los Tw3aked
 
 To get started with Android/LineageOS, you'll need to get familiar with Source Control Tools.
 
