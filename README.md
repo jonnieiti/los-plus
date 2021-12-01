@@ -5,7 +5,7 @@ To get started with Android/LineageOS, you'll need to get familiar with Source C
 
 To initialize your local repository using the LineageOS trees, use a command like this:
 
-repo init -u git://github.com/los-modded/android.git -b lineage-18.1
+repo init -u git://github.com/los-plus/android.git -b lineage-18.1
 
 
 Then to sync up:
